@@ -13,3 +13,7 @@ The code I have written includes loading the checker piece images, creation of a
 1) Download all files into a folder, and open index.html into a web browser such as Chrome.
 
 2) **Optional:** Change the board size by appending ?size=X to the end of the URL, where X is an integer greater than or equal to 6.
+
+### Sample Output:
+
+![image](https://user-images.githubusercontent.com/33675444/206809501-dee329c5-6c42-41af-8380-9fc5ea4bd121.png)
