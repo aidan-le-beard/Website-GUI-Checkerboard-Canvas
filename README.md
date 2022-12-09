@@ -10,4 +10,6 @@ The code I have written includes loading the checker piece images, creation of a
 
 ### To execute on Windows:
 
-Download all files into a folder, and open index.html into a web browser such as Chrome.
+1) Download all files into a folder, and open index.html into a web browser such as Chrome.
+
+2) **Optional:** Change the board size by appending ?size=X to the end of the URL, where X is an integer greater than or equal to 6.
