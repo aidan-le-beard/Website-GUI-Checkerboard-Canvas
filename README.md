@@ -16,4 +16,4 @@ The code I have written includes loading the checker piece images, creation of a
 
 ### Sample Output:
 
-![image](https://user-images.githubusercontent.com/33675444/206809501-dee329c5-6c42-41af-8380-9fc5ea4bd121.png)
+![image](https://user-images.githubusercontent.com/33675444/206821194-fae7041d-079f-4126-9c47-6c307976bc21.png)
