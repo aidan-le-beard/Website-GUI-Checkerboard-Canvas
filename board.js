@@ -279,7 +279,16 @@ var Board = function(size) {
 			var chkBlack = new Checker("black", false);
 			
 			this.add(chkRed, (1 - i%2), i);
-			this.add(chkBlack , (this.boardSize - 1 - i%2), i);
+
+			// Your code here
+			// if statement and else if / else clause added by me: was just the first statement inside the if() {}
+			if (this.boardSize % 2 == 0) {
+				this.add(chkBlack , (this.boardSize - 1 - i%2), i);
+			} else if (i % 2 == 0) {
+				this.add(chkBlack , (this.boardSize - 2 - i%2), i);
+			} else {
+				this.add(chkBlack , (this.boardSize - i%2), i);
+			}
 		}
 	}
 	
